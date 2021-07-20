@@ -1,6 +1,12 @@
 
 #1
 
+print("Hello"[4])
 
-this is a test:wq
+
+
+
+#2
+
+
 
