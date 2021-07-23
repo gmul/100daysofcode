@@ -1,10 +1,6 @@
 # Leap year calculator
 
-# 🚨 Don't change the code below 👇
 year = int(input("Which year do you want to check? "))
-# 🚨 Don't change the code above 👆
-
-#Write your code below this line 👇
 
 div_4 = int(year) % 4
 div_100 = int(year) % 100
