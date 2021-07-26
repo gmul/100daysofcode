@@ -1,3 +1,12 @@
+#!/usr/bin/env python
+#-*- coding: utf-8 -*-
+
+"""
+Treasure app to find treasure on the island
+
+"""
+
+__author__ = 'GM'
 
 print("Welcome to Treasure Island.")
 print("Your mission is to find the treasure.") 
@@ -24,8 +33,4 @@ if first_choice == "left" and second_choice == "wait" and third_choice == "yello
   print("You won the game!!!")
 else:
   print("sorry, you crapped out. GAME OVER")  
-
-
-end:
-print("Thanks for playing")
 

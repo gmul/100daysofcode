@@ -1,3 +1,12 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+
+"""
+Love Calculator app
+
+"""
+
+__author__ = 'GM'
 
 print("Welcome to the Love Calculator!")
 name1 = input("What is your name? \n")
